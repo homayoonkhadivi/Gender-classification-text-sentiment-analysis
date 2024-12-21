@@ -1,0 +1,8 @@
+pandas
+nltk
+scikit-learn
+streamlit
+xgboost
+textblob
+chardet
+kaggle

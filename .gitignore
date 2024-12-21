@@ -1,0 +1,13 @@
+# Python virtual environment
+gender/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Streamlit cache
+.streamlit/
