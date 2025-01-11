@@ -2,6 +2,10 @@
 
 This project uses Natural Language Processing (NLP) and machine learning to classify the gender of Twitter users based on their descriptions. Additionally, it includes sentiment analysis for further insights into the text.
 
+![bandicam2025-01-1113-18-14-150-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/47b613c9-003a-42f4-9825-be4892bd515a)
+
+
+
 ## **Features**
 - Preprocessing of textual data (tokenization, lemmatization, and stop-word removal).
 - Implementation of machine learning models:
